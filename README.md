@@ -77,6 +77,7 @@ Linear model trees combine linear models and decision trees to create a hybrid m
 https://machinelearningmastery.com/linear-regression-for-machine-learning/
 
 https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86
+
 Medium
 Linear Regression — Detailed View
 Linear regression is used for finding linear relationship between target and one or more predictors. There are two types of linear…
